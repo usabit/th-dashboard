@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ie10-viewport-bug-workaround.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.11.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-stylus": "^2.6.0",
+    "jeet": "^6.1.1",
+    "nib": "^1.1.2",
+    "rupture": "^0.6.2"
+  }
+}
